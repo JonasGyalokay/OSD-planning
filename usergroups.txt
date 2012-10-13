@@ -1,0 +1,45 @@
+﻿Which user groups do we want?
+User groups can be divided into several different categories as seen from Open Source Days side.
+
+We should try to get user groups from all the categories.
+
+Traditional unix user groups:
+	Example: SSLUG or DKUUG or BSD-DK
+
+User groups focused on single subjects:
+	Example: Drupal Danmark or Copenhagen Perl Mongers
+
+Groups sharing some of the open source concepts without neccessarily being about open source:
+	Example: KanalTux or Labitat
+
+
+User groups 1998
+
+User groups 1999
+
+User groups 2000
+
+User groups 2001
+
+User groups 2002
+
+User groups 2003
+
+User groups 2004
+
+User groups 2005
+
+User groups 2006
+
+User groups 2007
+
+User groups 2008
+
+User groups 2009
+
+User groups 2010
+
+User groups 2011
+
+User groups 2012
+

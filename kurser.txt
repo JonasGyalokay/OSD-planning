@@ -1,0 +1,16 @@
+Magnus Hagander (postgresql)
+Tykling (email)
+Sverre Eplov (Design patterns + refactoring)
+Kenneth Geisshirt
+Thomas Amnitzbøll
+Donald Axelsen
+Bacula (backup)
+DRBD
+Proxmox
+Offensiv IT-sikkerhed
+Javascript
+Magento
+Mobil udvikling
+Varnish
+Cloud computing / Openstack
+Storage

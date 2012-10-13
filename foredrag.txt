@@ -1,0 +1,26 @@
+Digitaliseringsstyrelsen
+KMD
+Mozilla
+Neelie Kroes
+Google
+Pwnies (DIKU)
+Universiteter og andre skoler
+Åben uddannelse
+ESS (European spallation source)
+Vestas / AAlborg universitet (supercomputer)
+IBM (cluster / supercomputer)
+Jolla
+Open hardware
+Wolframalpha
+Ex-nokia firmaer
+Identity management
+Jesper Louis
+GPU programmering
+Netværkssimulering (kimrhh)
+Cookie lovgivning
+Domæne lovgivning
+Om høringer generelt
+Forretning med FOSS
+CBS (diverse foredrag?)
+R / Big data (nok CBS)
+HTML5

@@ -1,0 +1,65 @@
+Open Source Days
+================
+
+History
+-------
+The conference was started in 1998 under the 'Linux98' name. In 1999 the name changed to 'Open Networks 99' and in 2000 it changed to 'Linuxforum' where it slowly grew into a large conference with 500+ visitors and the economy needed to attract some foreign speakers.
+
+In 2008 the structure behind the conference was changed as it was spun out from DKUUG (Danish Unix User Group) into its own company called Open Source Days ApS. As part of this change the conference changed its name to 'Open Source Days' to better reflect the wider scope of the conference compared to the 'Linuxforum' name.
+
+
+Short description of the Open Source Days conference
+----------------------------------------------------
+The Open Source Days (abbreviated to OSD) is a big danish conference focusing on open source projects and communities.
+
+As the (by far) biggest open source related conference in Denmark topics normally covered ranges from fairly introductory level stuff (user level introduction to Open Office for example) to quite technical subjects in the systems and network administration areas or programming.
+
+From the 2012 conference the board has tried to expand and revitalize the conference. In 2012 this was done by adding professional courses leading up to the conference as well as having several talks focusing more on the business aspects of open source than the more technical side we've always covered.
+
+In 2013 we'll try to expand into Open Data and hopefully also Open Education. We see both subjects as complementary to subjects already covered and very important to society in general.
+
+
+Purpose of the conference
+-------------------------
+Coming from DKUUG (and still being owned by DKUUG) we have a very similar purpose to DKUUG.
+
+In a few words the purpose of the conference is:
+* To expand knowledge and use of open source in Denmark.
+* Provide a meeting place for people actively involved in open source and hopefully help grow cooperation between the many different groups.
+* To a smaller extent: Help drive focus towards important issues related to open source, open data, open protocols and so on.
+
+
+Goals for 2013
+--------------
+* Hackathons
+* Open Data
+* Training courses
+* Job exchange
+* New exhibitors
+* Help user groups be more active / interesting
+
+
+Hackathons
+----------
+We have plenty of talks from lots of different groups / projects. Talks are a good way of spreading knowledge about interesting projects but doesn't do much to further cooperation between projects.
+
+We hope hackathons will help make projects more 'concrete' to visitors and by having several hackathons placed together we hope ideas will start forming between projects and that we can help strengthen open source / open data communities by providing the surroundings needed for this.
+
+
+Open Data
+---------
+Open Data is a very important subject that's gained a lot of attention in Denmark lately. On january 1st 2013 a large amount of data was released by the public sector including huge amounts of map data.
+
+Open Data will no doubt be important to many open source projects as well as many of our visitors in years to come and we need to help bring more focus to this area. For the march 2013 conference we intend to do that by having a variety of talks related to Open Data as well as at least one hackathon in this subject area.
+
+
+Job exchange
+------------
+We had a small job exchange at the 2012 conference and we want to see an even bigger and more active job exchange in 2013.
+
+
+New exhibitors
+--------------
+As part of the revitalization the conference is going through we'd like to see lots of new exhibitors that weren't traditionally present at the conference. Today it's quite common to base important infrastructure on open source projects even in companies not branding themselves as open source companies.
+
+It would be quite interesting if we can attract some of these companies to the conference.

@@ -63,3 +63,38 @@ New exhibitors
 As part of the revitalization the conference is going through we'd like to see lots of new exhibitors that weren't traditionally present at the conference. Today it's quite common to base important infrastructure on open source projects even in companies not branding themselves as open source companies.
 
 It would be quite interesting if we can attract some of these companies to the conference.
+
+
+User groups
+-----------
+User groups are an important part of the conference as they're the main points of interaction between users, developers, translators and everybody else in the open source communities on a day to day basis.
+
+Most user groups are run by more technical people however and don't have much experience 'selling themselves'. We should try to actively help them make a better presence on the conference.
+
+
+Conference structure
+--------------------
+We have two types of talks: normal talks lasting 45 minutes and lightning talks lasting 15 minutes.
+
+We normally have at least 5 tracks with normal length talks with 15 minute breaks between talks. Allowing for lunch break this generally leaves 5 talks per track each day of the conference. Exceptions do occur though and the exact schedule has to decided each year.
+
+Lightning talks are usually placed in one big block with little pause between talks.
+
+In addition to talks we sometimes have workshops. Workshops are more class oriented and we plan those much more freely. There's no set time limit on workshops that we have to adhere to so time is decided in cooperation with the person responsible for the workshop.
+
+
+Talk schedule
+-------------
+The schedule is subject to frequent (small) changes up to and including during the conference as we try to avoid scheduling conflicts between related talks, try to fit in late arriving talks and adjust to other external factors.
+
+Generally speaking we want to have a few major subject areas and reserve tracks for those subject areas. This is not always possible but we should strive toward this goal.
+
+
+Social event
+------------
+Sometimes we have a social event as part of the conference. Social events are usually held at the local cafe (if any) but it's not a core part of the conference and is entirely optional.
+
+
+Advertising
+-----------
+Open Source Days are present on Facebook, Twitter, Linkedin and Google+. In addition to that we try to get a few articles in relevant danish computer magazines and usually arrange competitions giving away conference tickets.

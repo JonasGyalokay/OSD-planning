@@ -5,7 +5,7 @@ Neelie Kroes
 Google
 Pwnies (DIKU)
 Universiteter og andre skoler
-Åben uddannelse
+Open Education
 ESS (European spallation source)
 Vestas / AAlborg universitet (supercomputer)
 IBM (cluster / supercomputer)
@@ -17,10 +17,10 @@ Identity management
 Jesper Louis
 GPU programmering
 Netværkssimulering (kimrhh)
-Cookie lovgivning
-Domæne lovgivning
-Om høringer generelt
-Forretning med FOSS
-CBS (diverse foredrag?)
-R / Big data (nok CBS)
+Cookie law
+Domain law
+Public hearings in general
+Business with free and open source software
+CBS (misc talks?)
+R / Big data (some CBS professor?)
 HTML5

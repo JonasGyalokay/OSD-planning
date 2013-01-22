@@ -1,0 +1,20 @@
+Conference schedule
+===================
+
+The conference is held 9+10 march 2013. The suggested schedule is as follows:
+
+<table border="1">
+<tr><th>Time</th><th>Saturday</th><th>Sunday</th></tr>
+<tr><td> 9.00-10.00</td><td>Registration and short opening talk</td><td>Registration</td></tr>
+<tr><td>10.00-11.00</td><td>Keynote</td><td>Keynote</td></tr>
+<tr><td>11.00-12.00</td><td>7 tracks</td><td>7 tracks</td></tr>
+<tr><td>12.00-13.00</td><td>Lunch</td><td>Lynch</td></tr>
+<tr><td>13.00-14.00</td><td>7 tracks</td><td>7 tracks</td></tr>
+<tr><td>14.00-15.00</td><td>7 tracks</td><td>7 tracks</td></tr>
+<tr><td>15.00-16.00</td><td>7 tracks</td><td>7 tracks</td></tr>
+<tr><td>16.00-17.00</td><td>7 tracks</td><td>7 tracks</td></tr>
+<tr><td>17.00-18.00</td><td>Keynote</td><td>Keynote</td></tr>
+<tr><td>18.00-21.00</td><td>Social event</td><td></td></tr>
+</table>
+
+Note that talks are set to 45 minutes each allowing for a 15 minute break between talks.

@@ -24,3 +24,4 @@ Business with free and open source software
 CBS (misc talks?)
 R / Big data (some CBS professor?)
 HTML5
+Jacob Wang (National Museet) (se hans slides fra 'Sharing is Caring 2012' på - http://www.slideshare.net/jacobwang/the-digital-museum-as-platform?ref=http://digital.natmus.dk/) Kontakt Jonas (fra Open Source Shift) på 31340113 hvis det har interesse
